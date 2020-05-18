@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StockMATE</string>
+    <string name="title_create">Create</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_options">Options</string>
+    <string name="app_info_title">Info</string>
+    <string name="app_info_desc">StockMATE app design © Jacob Goodridge 2020.</string>
+</resources>
